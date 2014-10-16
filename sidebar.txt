@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bob:home|Door43 (bob)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bob|d43-bob repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bob/archive/master.zip|d43-bob.zip]]
+
+**Recent Changes**
+{{changes>ns = bob}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bob|Ethnologue data]]
+
